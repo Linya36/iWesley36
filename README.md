@@ -13,12 +13,6 @@ i'm studying programming.
 
 </p>
 
-<h3> My Social Medias </h3>
-
-[Twitter](https://twitter.com/iwesley36)
-
-[Steam](https://steamcommunity.com/id/Wesley36)
-
 <h4> As time goes by I go for more things here, I hope to meet good people here. </h4>
 
 <!--
