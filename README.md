@@ -1,6 +1,6 @@
-<h1>Hello, I'm Wesley or Lina ^-^
+<h1>Hello, I'm Lina ^-^
 </h1>
-<p>I'm a Girl/Boy from Brazil,
+<p>I'm a Girl from Brazil,
 i'm studying programming.
 
 <h2>My skills </h2>
